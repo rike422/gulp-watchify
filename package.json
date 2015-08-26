@@ -28,16 +28,12 @@
     "gulp-util": "^3.0.4",
     "through2": "^0.6.3"
   },
-  "peerDependencies": {
-    "browserify": "^10.2.4",
-    "watchify": "^3.2.2"
-  },
   "devDependencies": {
     "brfs": "^1.4.0",
-    "browserify": "^10.2.4",
+    "browserify": "^11.0.1",
     "gulp": "^3.8.11",
     "gulp-streamify": "0.0.5",
     "gulp-uglify": "^1.1.0",
-    "watchify": "^3.2.2"
+    "watchify": "^3.3.1"
   }
 }
